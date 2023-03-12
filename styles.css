@@ -13,7 +13,7 @@ body {
 
 header {
     width: 1529px;
-    height: 64px;
+    height: 60px;
     color: #fff;
     background: transparent;
     -webkit-box-shadow: 5px 5px 15px 5px #000000;
@@ -111,4 +111,5 @@ button {
     border-radius: 16px;
     border: none;
     color: #fff;
+    cursor: pointer;
 }
